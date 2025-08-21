@@ -8,5 +8,6 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<capturadetela1.png>`
-`<capturade tela2.png>`
+`<img oloque aqui o print da tela de inspeção do seu navegador>`
+![Curriculo](/public/Capturadetela1.png)
+![Curriculo](/public/Capturadetela2.png)
